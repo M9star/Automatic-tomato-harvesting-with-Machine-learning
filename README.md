@@ -10,8 +10,8 @@
   - [Libraries](#libraries)
 - [Dataset](#dataset)
 - [Further Reading](#further-reading)
-  - [YOLO](#YOLO:-You-Look-Only-Once)
 - [Report](#report)
+- [Outputs](#output)
 - [Team](#team)
 
 ## Abstract
@@ -19,7 +19,7 @@ The agricultural industry continually seeks innovative solutions to enhance prod
 capabilities presents a promising approach. Our project aims to design and implement an 
 autonomous tomato harvesting robot with a 6-degrees-of-freedom (6DOF) robotic arm, 
 enabling precise and gentle fruit detachment to minimize damage and waste. At its core lies 
-a sophisticated deep learning neural network, a lightweight model tailored to meet the realtime application requirements of CNNs in low-cost embedded systems such as IoT 
+a sophisticated deep learning neural network, a lightweight model tailored to meet the real time application requirements of CNNs in low-cost embedded systems such as IoT 
 applications. Employing the state-of-the-art YOLOv4 tiny object detection with the Darknet 
 framework, the system accurately identifies and locates unripe, semi-ripe, and ripe tomatoes 
 in the field, surpassing traditional methods and ensuring efficient and accurate harvesting. 
@@ -57,13 +57,18 @@ For additional reading, we recommend the following resources:
 
 - [Python Machine Learning](https://www.oreilly.com/library/view/python-machine-learning/9781789955750/)
 - [Introduction to 6DOF Robotic Arms with Python](https://www.robotshop.com/community/tutorials/show/introduction-to-6dof-robotic-arms-with-python)
+- [YOLOv4tiny](https://roboflow.com/model/yolov4-tiny)
 
-### YOLO: You Look Only Once 
-- [yolo foundation](https://www.youtube.com/watch?v=zgbPj4lSc58&list=PL1u-h-YIOL0sZJsku-vq7cUGbqDEeDK0a)
-- [yolov4-tiny](https://www.youtube.com/watch?v=XaYRY4EM6is&t=625s)
 
 ## Report
 [Detailed project report](https://github.com/M9star/Automatic-tomato-harvesting-with-Machine-learning/blob/main/Report%20File%20.pdf)
+
+## Outputs
+![Final image](final_image.jpg)
+![Detection](detection.jpg)
+![plucking](plucking.jpg)
+
+
 
 ## Team
 
