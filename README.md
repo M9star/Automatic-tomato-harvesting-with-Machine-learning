@@ -11,7 +11,6 @@
 - [Dataset](#dataset)
 - [Further Reading](#further-reading)
   - [YOLO](#YOLO:-You-Look-Only-Once)
-- [Results](#results)
 - [Report](#report)
 - [Team](#team)
 
