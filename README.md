@@ -31,21 +31,10 @@ efficiency and contribute to a more sustainable food production system.
 
 ## What are we doing
 - To reduce the labour shortage on tomato harvesting.
+### Flowchart
 
-## Technology Stack
-  - ### Programming Language
-    - Python
+![Flowchart](flowchart.png)
 
-  - ### Editor
-    - Visual Studio Code
-
-  - ### Libraries
-    - Darknet: The framework used for implementing YOLOv4 for tomato detection.
-    - OpenCV: Used for image processing and computer vision tasks.
-    - Matplotlib: Used for data visualization.
-    - Pandas: Used for data manipulation and analysis.
-    - NumPy: Used for numerical computing.
-    
 
   - ### Dataset
     The project involves the use of datasets related to tomato harvesting and machine learning.
